@@ -1,0 +1,63 @@
+.a{
+    /* border: 2px solid red; */
+    width: 90%;
+    /* height: 100px; */
+
+  }
+  .top-most-div{
+    /* border: 2px solid red; */
+    /* margin-left: 38px; */
+    box-sizing: border-box;
+
+    /* position: absolute; */
+    /* width: 50px; */
+    /* height: 64px; */
+    /* left: 38px; */
+    /* top: 47px; */
+    /* margin-top: 20px; */
+    /* margin-left: 10px; */
+    margin-right: 10px;
+
+    border: 1px solid #000000;
+  
+  }
+  .b{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+
+    /* border: 1px solid #000000; */
+  
+  }
+  /* .trivia-section{ */
+    /* border: 2px solid red; */
+   
+/* background: #FFFFFF; */
+  /* } */
+  .img{
+    border-image-source:url(border.png);
+    border-image-width:10px;
+   
+  }
+  .d{
+     left: 58px;
+     top: 87px;
+     border-radius: 0px;
+     border-image-source:url(border.png);
+     border-image-width:10px;
+  }
+  .s{
+    border-image-source:url(border.png);
+    border-image-width:10px;
+  }
+  .p{
+    
+    width: 300px;
+    height: ;
+    left: 58px;
+    top: 874px;
+
+    background: url(dog.png);
+  }
+ 
